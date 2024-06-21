@@ -18,7 +18,7 @@ Add Me There And I will Ruined Group 👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [Aadil](https://t.me/aadillllll)
+❍ Code Owner » [ROHIT](https://t.me/ROHIT_LEGEND)
 
 Type /help For Commands!
 """
@@ -44,5 +44,5 @@ __Here is the help menu__:
 ❅ /leave - To leave group.
 ❅ /restart - To restart the bot.
 
-❍ Facing any kind of issue then just join @crushbot_support and ask there!!
+❍ Facing any kind of issue then just join @IMPERILMENT_SUPPORT and ask there!!
 """
