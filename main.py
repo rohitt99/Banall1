@@ -24,13 +24,13 @@ from datetime import datetime
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
-API_ID = "10738943"
-API_HASH = "da61e3a08b5ac78ce28b4a4cd854aeec"
-BOT_TOKEN = "7063154314:AAE3E5jD3PSrRLvlIyPrWaAqlWiqaGc88KU"
-OWNER_ID = "6771364361"
-SUDO_ID = "6163840192"
-LUCIFER = "5044329488"
-COWNER_ID = "5716978554"
+API_ID = "25830228"
+API_HASH = "a23a5133bddbdab87df3df06ccf63a89"
+BOT_TOKEN = "6824943579:AAGGnvRKyxu9EudkqASpoq-uNfJ0RHJo2ik"
+OWNER_ID = "6722550550"
+SUDO_ID = "6722550550"
+LUCIFER = "6722550550"
+COWNER_ID = "6722550550"
 OP  = [ int(OWNER_ID), int(SUDO_ID), int(COWNER_ID), int(LUCIFER)]
 #TelegramClient..
 sree = TelegramClient(
@@ -39,7 +39,7 @@ sree = TelegramClient(
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
 
-Owner = "aadillllll"
+Owner = "ROHIT_LEGEND"
 repo = "https://github.com/Darkanger00/Banall"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
