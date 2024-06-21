@@ -176,7 +176,7 @@ async def ver(events):
 
 
 print("Your Bot  Deployed Successfully ✅")
-print("Join @crushbot_support if you facing any kind of issue!!")
+print("Join @IMPERILMENT_SUPPORT if you facing any kind of issue!!")
 
 
 
